@@ -1,12 +1,12 @@
 - 👋 Hello everyone, I’m Armando José Olveira
-- 😎 I'm 20 years old
+- 😎 I'm 21 years old
 - 👨‍💻 I love computers and programming, although I'm still developing my skills
 - 🤓 I know some programming languages like:
 
-      1. 🐍 Phyton
-      2. ☕ Java
-      3. 💎 Ruby
-      4. 🎮 CSharp
+      1. 🎮 CSharp
+      2. 🐍 Phyton
+      3. ☕ Java
+      4. 💎 Ruby
       
 - 💭 I hope that one day I can become a Developer, or Data Scientist and manage to give a better life to the people I love most
 
