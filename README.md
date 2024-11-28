@@ -6,7 +6,8 @@
       1. 🎮 CSharp
       2. 🐍 Phyton
       3. ☕ Java
-      4. 💎 Ruby
+      4. 🟨✨ JavaScript
+      5. 🟢🌿 Node.js
       
 - 💭 I hope that one day I can become a Developer, or Data Scientist and manage to give a better life to the people I love most
 
