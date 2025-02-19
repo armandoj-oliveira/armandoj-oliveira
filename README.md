@@ -1,4 +1,4 @@
-- 👋 Hello everyone, I’m Armando José Olveira
+- 👋 Hello everyone, I’m Armando José Oliveira
 - 😎 I'm 22 years old
 - 👨‍💻 I love computers and programming, although I'm still developing my skills
 - 🤓 I know some programming languages like:
