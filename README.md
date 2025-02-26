@@ -1,9 +1,37 @@
-<h1 align="center">Hey, eu sou o Armando! 👋</h1>
+## 🏷️ Apresentação em Código!
 
-<p align="center">
-  🚀 Curioso por natureza, dev por paixão! Sempre explorando techs e ajudando as pessoas.
-</p>
+```typescript
+class Pessoa {
+    name: string;
+    age: number;
+    birthday: string;
+    contact: string[];
+    slogan: string = "Curioso por natureza, dev por paixão! Sempre explorando techs e ajudando as pessoas.",
 
+    constructor(name: string, age: number, birthday: string, contact: string[], slogan: string) {
+        this.name = name;
+        this.age = age;
+        this.birthday = birthday;
+        this.contact = contact;
+        this.slogan = slogan
+    }
+
+    apresentar(): string {
+        return `Olá! Meu nome é ${this.name}, tenho ${this.age} anos e nasci em ${this.birthday}.  
+        Você pode me contatar pelo e-mail ${this.contact[0]} ou pelo telefone ${this.contact[1]}.
+        🚀 ${this.slogan}`;
+    }
+}
+
+const eu = new Pessoa(
+    "Armando José Oliveira",
+    22,
+    "12/11/2002",
+    ["ajvdoliveira789612@gmail.com", "(62) 98271-7684"]
+);
+
+console.log(eu.apresentar());
+```
 ---
 
 ## 👨‍💻 Sobre mim
