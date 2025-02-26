@@ -76,7 +76,7 @@ console.log(eu.apresentar());
 ---
 
 ## 🚀 Projetos Destacados
-🔹 **[Cookin'Up](https://github.com/armandoj-oliveira/cookin-up)** → Escolha ingredientes e descubra receitas incríveis! 🍳  
+🔹 **[Cookin'Up](https://github.com/armandoj-oliveira/cookinup)** → Escolha ingredientes e descubra receitas incríveis! 🍳  
 🔹 **[Express MongoDB API](https://github.com/armandoj-oliveira/express-mongo)** → Uma API REST usando Express.js e MongoDB 📡   
 
 ---
