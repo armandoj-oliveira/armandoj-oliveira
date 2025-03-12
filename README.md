@@ -78,7 +78,12 @@ console.log(eu.apresentar());
 
 ## 🚀 Projetos Destacados
 🔹 **[Cookin'Up](https://github.com/armandoj-oliveira/cookinup)** → Escolha ingredientes e descubra receitas incríveis! 🍳  
-🔹 **[Express MongoDB API](https://github.com/armandoj-oliveira/express-mongo)** → Uma API REST usando Express.js e MongoDB 📡   
+
+🔹 **[Express MongoDB API](https://github.com/armandoj-oliveira/express-mongo)** → Uma API REST usando Express.js e MongoDB 📡  
+
+🔹 **[Express Sequelize SQL API](https://github.com/armandoj-oliveira/sequelize-express-sqlite)** → Uma API REST usando Express.js, Sequelize e SQLite 🚀  
+
+🔹 **[TypeScript Micro Serviço](https://github.com/armandoj-oliveira/typescript-microservice)** → Um simples micro serviço em TypeScript (ainda em desenvolvimento) ⚙️  
 
 ---
 
